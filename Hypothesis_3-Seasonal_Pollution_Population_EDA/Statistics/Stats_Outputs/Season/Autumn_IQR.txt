@@ -1,0 +1,122 @@
+Season: Autumn
+Co IQR: 60.51
+Values below 115.88 or above 357.91 could be outliers.
+Potential outliers for co: [['Abeokuta' 'Northern Hemisphere' 'Autumn' ... False 'Nigeria'
+  'Abeokuta_Autumn_2022']
+ ['Abeokuta' 'Northern Hemisphere' 'Autumn' ... False 'Nigeria'
+  'Abeokuta_Autumn_2023']
+ ['Acapulco De Juarez' 'Northern Hemisphere' 'Autumn' ... False 'México'
+  'Acapulco De Juarez_Autumn_2023']
+ ...
+ ['Surat' 'Northern Hemisphere' 'Autumn' ... False 'France'
+  'Surat_Autumn_2023']
+ ['Villa De Cura' 'Northern Hemisphere' 'Autumn' ... False 'Venezuela'
+  'Villa De Cura_Autumn_2022']
+ ['Villa De Cura' 'Northern Hemisphere' 'Autumn' ... False 'Venezuela'
+  'Villa De Cura_Autumn_2023']]
+================================================================================
+No IQR: 0.24
+Values below -0.34 or above 0.62 could be outliers.
+Potential outliers for no: [['Acapulco De Juarez' 'Northern Hemisphere' 'Autumn' ... False 'México'
+  'Acapulco De Juarez_Autumn_2022']
+ ['Acapulco De Juarez' 'Northern Hemisphere' 'Autumn' ... False 'México'
+  'Acapulco De Juarez_Autumn_2023']
+ ['Albany' 'Northern Hemisphere' 'Autumn' ... False 'United States'
+  'Albany_Autumn_2022']
+ ...
+ ['Villa De Cura' 'Northern Hemisphere' 'Autumn' ... False 'Venezuela'
+  'Villa De Cura_Autumn_2023']
+ ['Watertown Town' 'Northern Hemisphere' 'Autumn' ... False
+  'United States' 'Watertown Town_Autumn_2022']
+ ['Watertown Town' 'Northern Hemisphere' 'Autumn' ... False
+  'United States' 'Watertown Town_Autumn_2023']]
+================================================================================
+No2 IQR: 3.56
+Values below -4.81 or above 9.43 could be outliers.
+Potential outliers for no2: [['Albany' 'Northern Hemisphere' 'Autumn' ... False 'United States'
+  'Albany_Autumn_2022']
+ ['Albany' 'Northern Hemisphere' 'Autumn' ... False 'United States'
+  'Albany_Autumn_2023']
+ ['Ankang' 'Northern Hemisphere' 'Autumn' ... False '中国'
+  'Ankang_Autumn_2022']
+ ...
+ ['Villa De Cura' 'Northern Hemisphere' 'Autumn' ... False 'Venezuela'
+  'Villa De Cura_Autumn_2023']
+ ['Watertown Town' 'Northern Hemisphere' 'Autumn' ... False
+  'United States' 'Watertown Town_Autumn_2022']
+ ['Watertown Town' 'Northern Hemisphere' 'Autumn' ... False
+  'United States' 'Watertown Town_Autumn_2023']]
+================================================================================
+O3 IQR: 28.13
+Values below -11.75 or above 100.78 could be outliers.
+Potential outliers for o3: [['Az Zubayr' 'Northern Hemisphere' 'Autumn' 2022 'Autumn_2022'
+  528.1338003663003 5.01220695970696 32.59468406593406 109.6021749084249
+  19.392115384615384 52.56247710622711 125.48395604395606
+  0.9516025641025642 'Az Zubayr' 30.3892 47.7081 'IQ' 370000.0 False
+  False 'العراق' 'Az Zubayr_Autumn_2022']]
+================================================================================
+So2 IQR: 1.35
+Values below -1.83 or above 3.58 could be outliers.
+Potential outliers for so2: [['Abeokuta' 'Northern Hemisphere' 'Autumn' ... False 'Nigeria'
+  'Abeokuta_Autumn_2022']
+ ['Abeokuta' 'Northern Hemisphere' 'Autumn' ... False 'Nigeria'
+  'Abeokuta_Autumn_2023']
+ ['Ankang' 'Northern Hemisphere' 'Autumn' ... False '中国'
+  'Ankang_Autumn_2022']
+ ...
+ ['Ulanhot' 'Northern Hemisphere' 'Autumn' ... False '中国'
+  'Ulanhot_Autumn_2022']
+ ["Ust'-Kut" 'Northern Hemisphere' 'Autumn' ... False 'Россия'
+  "Ust'-Kut_Autumn_2022"]
+ ["Ust'-Kut" 'Northern Hemisphere' 'Autumn' ... False 'Россия'
+  "Ust'-Kut_Autumn_2023"]]
+================================================================================
+Pm2_5 IQR: 6.89
+Values below -8.58 or above 18.99 could be outliers.
+Potential outliers for pm2_5: [['Abeokuta' 'Northern Hemisphere' 'Autumn' ... False 'Nigeria'
+  'Abeokuta_Autumn_2022']
+ ['Abeokuta' 'Northern Hemisphere' 'Autumn' ... False 'Nigeria'
+  'Abeokuta_Autumn_2023']
+ ['Agadez' 'Northern Hemisphere' 'Autumn' ... False 'Niger'
+  'Agadez_Autumn_2022']
+ ...
+ ['Tamanrasset' 'Northern Hemisphere' 'Autumn' ... False
+  'Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر' 'Tamanrasset_Autumn_2023']
+ ['Tidjikja' 'Northern Hemisphere' 'Autumn' ... False 'موريتانيا'
+  'Tidjikja_Autumn_2022']
+ ['Tidjikja' 'Northern Hemisphere' 'Autumn' ... False 'موريتانيا'
+  'Tidjikja_Autumn_2023']]
+================================================================================
+Pm10 IQR: 11.64
+Values below -14.43 or above 32.13 could be outliers.
+Potential outliers for pm10: [['Abeokuta' 'Northern Hemisphere' 'Autumn' ... False 'Nigeria'
+  'Abeokuta_Autumn_2022']
+ ['Abeokuta' 'Northern Hemisphere' 'Autumn' ... False 'Nigeria'
+  'Abeokuta_Autumn_2023']
+ ['Agadez' 'Northern Hemisphere' 'Autumn' ... False 'Niger'
+  'Agadez_Autumn_2022']
+ ...
+ ['Tidjikja' 'Northern Hemisphere' 'Autumn' ... False 'موريتانيا'
+  'Tidjikja_Autumn_2023']
+ ['`Ataq' 'Northern Hemisphere' 'Autumn' ... False 'اليمن'
+  '`Ataq_Autumn_2022']
+ ['`Ataq' 'Northern Hemisphere' 'Autumn' ... False 'اليمن'
+  '`Ataq_Autumn_2023']]
+================================================================================
+Nh3 IQR: 1.00
+Values below -1.43 or above 2.56 could be outliers.
+Potential outliers for nh3: [['Abeokuta' 'Northern Hemisphere' 'Autumn' ... False 'Nigeria'
+  'Abeokuta_Autumn_2022']
+ ['Abeokuta' 'Northern Hemisphere' 'Autumn' ... False 'Nigeria'
+  'Abeokuta_Autumn_2023']
+ ['Altay' 'Northern Hemisphere' 'Autumn' ... False 'Россия'
+  'Altay_Autumn_2022']
+ ...
+ ['Ulanhot' 'Northern Hemisphere' 'Autumn' ... False '中国'
+  'Ulanhot_Autumn_2023']
+ ['Villa De Cura' 'Northern Hemisphere' 'Autumn' ... False 'Venezuela'
+  'Villa De Cura_Autumn_2022']
+ ['Villa De Cura' 'Northern Hemisphere' 'Autumn' ... False 'Venezuela'
+  'Villa De Cura_Autumn_2023']]
+================================================================================
+

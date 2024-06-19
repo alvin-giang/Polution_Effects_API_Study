@@ -1,0 +1,127 @@
+Season: Spring
+Co IQR: 59.64
+Values below 125.41 or above 363.97 could be outliers.
+Potential outliers for co: [['Abeokuta' 'Northern Hemisphere' 'Spring' ... False 'Nigeria'
+  'Abeokuta_Spring_2022']
+ ['Abeokuta' 'Northern Hemisphere' 'Spring' ... False 'Nigeria'
+  'Abeokuta_Spring_2023']
+ ['Abeokuta' 'Northern Hemisphere' 'Spring' ... False 'Nigeria'
+  'Abeokuta_Spring_2024']
+ ...
+ ['Surat' 'Northern Hemisphere' 'Spring' ... False 'France'
+  'Surat_Spring_2024']
+ ['Trinidad' 'Southern Hemisphere' 'Spring' ... False
+  'Trinidad and Tobago' 'Trinidad_Spring_2022']
+ ['Trinidad' 'Southern Hemisphere' 'Spring' ... False
+  'Trinidad and Tobago' 'Trinidad_Spring_2023']]
+================================================================================
+No IQR: 0.23
+Values below -0.31 or above 0.59 could be outliers.
+Potential outliers for no: [['Albany' 'Northern Hemisphere' 'Spring' ... False 'United States'
+  'Albany_Spring_2022']
+ ['Albany' 'Northern Hemisphere' 'Spring' ... False 'United States'
+  'Albany_Spring_2023']
+ ['Albany' 'Northern Hemisphere' 'Spring' ... False 'United States'
+  'Albany_Spring_2024']
+ ...
+ ['Watertown Town' 'Northern Hemisphere' 'Spring' ... False
+  'United States' 'Watertown Town_Spring_2022']
+ ['Watertown Town' 'Northern Hemisphere' 'Spring' ... False
+  'United States' 'Watertown Town_Spring_2023']
+ ['Watertown Town' 'Northern Hemisphere' 'Spring' ... False
+  'United States' 'Watertown Town_Spring_2024']]
+================================================================================
+No2 IQR: 3.23
+Values below -4.33 or above 8.58 could be outliers.
+Potential outliers for no2: [['Albany' 'Northern Hemisphere' 'Spring' ... False 'United States'
+  'Albany_Spring_2022']
+ ['Albany' 'Northern Hemisphere' 'Spring' ... False 'United States'
+  'Albany_Spring_2023']
+ ['Albany' 'Northern Hemisphere' 'Spring' ... False 'United States'
+  'Albany_Spring_2024']
+ ...
+ ['Watertown Town' 'Northern Hemisphere' 'Spring' ... False
+  'United States' 'Watertown Town_Spring_2022']
+ ['Watertown Town' 'Northern Hemisphere' 'Spring' ... False
+  'United States' 'Watertown Town_Spring_2023']
+ ['Watertown Town' 'Northern Hemisphere' 'Spring' ... False
+  'United States' 'Watertown Town_Spring_2024']]
+================================================================================
+O3 IQR: 31.16
+Values below -0.24 or above 124.40 could be outliers.
+Potential outliers for o3: [['Az Zubayr' 'Northern Hemisphere' 'Spring' 2022 'Spring_2022'
+  331.2486797385621 1.177437908496732 12.103281045751634
+  137.90341176470588 11.951411764705885 36.87413071895425
+  149.90433986928105 1.300248366013072 'Az Zubayr' 30.3892 47.7081 'IQ'
+  370000.0 False False 'العراق' 'Az Zubayr_Spring_2022']
+ ['Sargodha' 'Northern Hemisphere' 'Spring' 2022 'Spring_2022'
+  701.9278692810457 0.2473725490196078 9.537660130718956
+  126.84299346405228 7.0293986928104575 62.44235294117647
+  102.50049673202616 17.239254901960784 'Sargodha' 32.0836 72.6711 'PK'
+  602631.0 False False 'پاکستان' 'Sargodha_Spring_2022']]
+================================================================================
+So2 IQR: 1.31
+Values below -1.70 or above 3.52 could be outliers.
+Potential outliers for so2: [['Abeokuta' 'Northern Hemisphere' 'Spring' ... False 'Nigeria'
+  'Abeokuta_Spring_2022']
+ ['Abeokuta' 'Northern Hemisphere' 'Spring' ... False 'Nigeria'
+  'Abeokuta_Spring_2023']
+ ['Ankang' 'Northern Hemisphere' 'Spring' ... False '中国'
+  'Ankang_Spring_2022']
+ ...
+ ['Surat' 'Northern Hemisphere' 'Spring' ... False 'France'
+  'Surat_Spring_2024']
+ ['Traralgon' 'Southern Hemisphere' 'Spring' ... False 'Australia'
+  'Traralgon_Spring_2022']
+ ['Traralgon' 'Southern Hemisphere' 'Spring' ... False 'Australia'
+  'Traralgon_Spring_2023']]
+================================================================================
+Pm2_5 IQR: 7.61
+Values below -9.40 or above 21.02 could be outliers.
+Potential outliers for pm2_5: [['Abeokuta' 'Northern Hemisphere' 'Spring' ... False 'Nigeria'
+  'Abeokuta_Spring_2022']
+ ['Abeokuta' 'Northern Hemisphere' 'Spring' ... False 'Nigeria'
+  'Abeokuta_Spring_2023']
+ ['Agadez' 'Northern Hemisphere' 'Spring' ... False 'Niger'
+  'Agadez_Spring_2022']
+ ...
+ ['Tidjikja' 'Northern Hemisphere' 'Spring' ... False 'موريتانيا'
+  'Tidjikja_Spring_2023']
+ ['Tidjikja' 'Northern Hemisphere' 'Spring' ... False 'موريتانيا'
+  'Tidjikja_Spring_2024']
+ ['`Ataq' 'Northern Hemisphere' 'Spring' ... False 'اليمن'
+  '`Ataq_Spring_2022']]
+================================================================================
+Pm10 IQR: 14.36
+Values below -18.38 or above 39.06 could be outliers.
+Potential outliers for pm10: [['Abeokuta' 'Northern Hemisphere' 'Spring' ... False 'Nigeria'
+  'Abeokuta_Spring_2022']
+ ['Abeokuta' 'Northern Hemisphere' 'Spring' ... False 'Nigeria'
+  'Abeokuta_Spring_2023']
+ ['Agadez' 'Northern Hemisphere' 'Spring' ... False 'Niger'
+  'Agadez_Spring_2022']
+ ...
+ ['Tidjikja' 'Northern Hemisphere' 'Spring' ... False 'موريتانيا'
+  'Tidjikja_Spring_2024']
+ ['Tshabong' 'Southern Hemisphere' 'Spring' ... True 'Botswana'
+  'Tshabong_Spring_2023']
+ ['`Ataq' 'Northern Hemisphere' 'Spring' ... False 'اليمن'
+  '`Ataq_Spring_2022']]
+================================================================================
+Nh3 IQR: 1.55
+Values below -2.23 or above 3.97 could be outliers.
+Potential outliers for nh3: [['Abeokuta' 'Northern Hemisphere' 'Spring' ... False 'Nigeria'
+  'Abeokuta_Spring_2022']
+ ['Abeokuta' 'Northern Hemisphere' 'Spring' ... False 'Nigeria'
+  'Abeokuta_Spring_2023']
+ ['Abeokuta' 'Northern Hemisphere' 'Spring' ... False 'Nigeria'
+  'Abeokuta_Spring_2024']
+ ...
+ ['Ulanhot' 'Northern Hemisphere' 'Spring' ... False '中国'
+  'Ulanhot_Spring_2022']
+ ['Ulanhot' 'Northern Hemisphere' 'Spring' ... False '中国'
+  'Ulanhot_Spring_2023']
+ ['Ulanhot' 'Northern Hemisphere' 'Spring' ... False '中国'
+  'Ulanhot_Spring_2024']]
+================================================================================
+

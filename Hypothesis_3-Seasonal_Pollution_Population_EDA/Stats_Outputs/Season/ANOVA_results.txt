@@ -1,0 +1,26 @@
+ANOVA Results for Pollutants Across Seasons
+-------------------------------------------------
+Co:
+F-Statistic: 102.5180, P-Value: 1.2945e-62
+
+No:
+F-Statistic: 19.1275, P-Value: 2.9064e-12
+
+No2:
+F-Statistic: 86.5059, P-Value: 2.8490e-53
+
+O3:
+F-Statistic: 196.9380, P-Value: 9.8886e-115
+
+So2:
+F-Statistic: 48.9822, P-Value: 9.1959e-31
+
+Pm2_5:
+F-Statistic: 17.0761, P-Value: 5.6010e-11
+
+Pm10:
+F-Statistic: 8.2941, P-Value: 1.7289e-05
+
+Nh3:
+F-Statistic: 25.7525, P-Value: 2.0939e-16
+

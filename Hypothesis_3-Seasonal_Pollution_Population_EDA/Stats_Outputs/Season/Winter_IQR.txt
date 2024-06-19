@@ -1,0 +1,177 @@
+Season: Winter
+Co IQR: 77.04
+Values below 108.89 or above 417.07 could be outliers.
+Potential outliers for co: [['Abeokuta' 'Northern Hemisphere' 'Winter' ... False 'Nigeria'
+  'Abeokuta_Winter_2022']
+ ['Abeokuta' 'Northern Hemisphere' 'Winter' ... False 'Nigeria'
+  'Abeokuta_Winter_2023']
+ ['Abeokuta' 'Northern Hemisphere' 'Winter' ... False 'Nigeria'
+  'Abeokuta_Winter_2024']
+ ...
+ ['Surat' 'Northern Hemisphere' 'Winter' ... False 'France'
+  'Surat_Winter_2022']
+ ['Surat' 'Northern Hemisphere' 'Winter' ... False 'France'
+  'Surat_Winter_2023']
+ ['Surat' 'Northern Hemisphere' 'Winter' ... False 'France'
+  'Surat_Winter_2024']]
+================================================================================
+No IQR: 0.34
+Values below -0.49 or above 0.88 could be outliers.
+Potential outliers for no: [['Albany' 'Northern Hemisphere' 'Winter' ... False 'United States'
+  'Albany_Winter_2022']
+ ['Albany' 'Northern Hemisphere' 'Winter' ... False 'United States'
+  'Albany_Winter_2023']
+ ['Albany' 'Northern Hemisphere' 'Winter' ... False 'United States'
+  'Albany_Winter_2024']
+ ...
+ ['Watertown Town' 'Northern Hemisphere' 'Winter' ... False
+  'United States' 'Watertown Town_Winter_2022']
+ ['Watertown Town' 'Northern Hemisphere' 'Winter' ... False
+  'United States' 'Watertown Town_Winter_2023']
+ ['Watertown Town' 'Northern Hemisphere' 'Winter' ... False
+  'United States' 'Watertown Town_Winter_2024']]
+================================================================================
+No2 IQR: 6.19
+Values below -8.57 or above 16.19 could be outliers.
+Potential outliers for no2: [['Albany' 'Northern Hemisphere' 'Winter' ... False 'United States'
+  'Albany_Winter_2022']
+ ['Albany' 'Northern Hemisphere' 'Winter' ... False 'United States'
+  'Albany_Winter_2023']
+ ['Albany' 'Northern Hemisphere' 'Winter' ... False 'United States'
+  'Albany_Winter_2024']
+ ...
+ ['Watertown Town' 'Northern Hemisphere' 'Winter' ... False
+  'United States' 'Watertown Town_Winter_2022']
+ ['Watertown Town' 'Northern Hemisphere' 'Winter' ... False
+  'United States' 'Watertown Town_Winter_2023']
+ ['Watertown Town' 'Northern Hemisphere' 'Winter' ... False
+  'United States' 'Watertown Town_Winter_2024']]
+================================================================================
+O3 IQR: 22.49
+Values below 8.98 or above 98.96 could be outliers.
+Potential outliers for o3: [['Barcelos' 'Southern Hemisphere' 'Winter' 2022 'Winter_2022'
+  172.2970324074074 0.0215972222222222 0.194199074074074
+  3.1080972222222223 0.1016435185185185 1.3642222222222222
+  1.380449074074074 0.0246898148148148 'Barcelos' -0.9736 -62.9269 'BR'
+  12584.0 False True 'Portugal' 'Barcelos_Winter_2022']
+ ['Barcelos' 'Southern Hemisphere' 'Winter' 2023 'Winter_2023'
+  178.84803894927535 0.0190806159420289 0.1841168478260869
+  -0.9379755434782608 0.1051811594202898 1.2347735507246378
+  1.3021557971014492 0.0206567028985507 'Barcelos' -0.9736 -62.9269 'BR'
+  12584.0 False True 'Portugal' 'Barcelos_Winter_2023']
+ ['Coari' 'Southern Hemisphere' 'Winter' 2023 'Winter_2023'
+  231.6472690217392 0.0224592391304347 0.6193297101449275
+  7.721458333333333 0.4146059782608696 4.268496376811594
+  4.414375000000001 0.1448007246376811 'Coari' -4.085 -63.1414 'BR'
+  53305.0 False False 'Brasil' 'Coari_Winter_2023']
+ ['Fonte Boa' 'Southern Hemisphere' 'Winter' 2022 'Winter_2022'
+  198.29383736559137 0.0287231182795698 0.3101008064516129
+  4.997399193548387 0.1632258064516129 4.1683534946236565
+  4.192022849462365 0.096646505376344 'Fonte Boa' -2.5138 -66.0916 'BR'
+  16060.0 False False 'Brasil' 'Fonte Boa_Winter_2022']
+ ['Fonte Boa' 'Southern Hemisphere' 'Winter' 2023 'Winter_2023'
+  184.4477445652174 0.0218795289855072 0.2655570652173913
+  -0.4153577898550725 0.1540172101449275 2.139338768115942
+  2.2152400362318843 0.0445425724637681 'Fonte Boa' -2.5138 -66.0916 'BR'
+  16060.0 False False 'Brasil' 'Fonte Boa_Winter_2023']
+ ['Kavaratti' 'Northern Hemisphere' 'Winter' 2022 'Winter_2022'
+  370.7655654761905 0.0061755952380952 0.3366964285714285
+  101.0618005952381 0.8112648809523809 41.09964285714285
+  47.42668154761905 0.004345238095238 'Kavaratti' 10.5626 72.6369 'IN'
+  10688.0 False True 'India' 'Kavaratti_Winter_2022']
+ ['Kavaratti' 'Northern Hemisphere' 'Winter' 2023 'Winter_2023'
+  349.5216950757576 0.0064962121212121 0.3618655303030303
+  104.7681581439394 0.975871212121212 44.29005208333333 54.47851799242424
+  0.0667897727272727 'Kavaratti' 10.5626 72.6369 'IN' 10688.0 False True
+  'India' 'Kavaratti_Winter_2023']
+ ['Manokwari' 'Southern Hemisphere' 'Winter' 2023 'Winter_2023'
+  691.0379578754578 5.3347435897435895 10.189578754578754
+  5.551904761904762 2.788264652014652 4.8846978021978025
+  5.258951465201465 0.2612545787545787 'Manokwari' -0.8711 134.069 'ID'
+  74504.0 False False 'Indonesia' 'Manokwari_Winter_2023']
+ ['Sorong' 'Southern Hemisphere' 'Winter' 2022 'Winter_2022'
+  209.67242592592592 0.020949074074074 0.3280972222222222
+  8.86237962962963 0.1285601851851852 0.7311990740740741
+  0.9128564814814816 0.0511527777777777 'Sorong' -0.8667 131.25 'ID'
+  272349.0 False False 'Indonesia' 'Sorong_Winter_2022']
+ ['Tefe' 'Southern Hemisphere' 'Winter' 2022 'Winter_2022'
+  208.8357453703704 0.0992222222222222 0.6606481481481481
+  6.562208333333333 0.35175 4.0005 4.067064814814815 0.1583240740740741
+  'Tefe' -3.3684 -64.7205 'BR' 51437.0 False False 'ኢትዮጵያ'
+  'Tefe_Winter_2022']
+ ['Tefe' 'Southern Hemisphere' 'Winter' 2023 'Winter_2023'
+  209.8454257246377 0.0769338768115942 0.6992798913043479
+  3.4167527173913044 0.3807427536231884 3.4498324275362315
+  3.6107744565217392 0.1326268115942029 'Tefe' -3.3684 -64.7205 'BR'
+  51437.0 False False 'ኢትዮጵያ' 'Tefe_Winter_2023']
+ ['Wamba' 'Northern Hemisphere' 'Winter' 2022 'Winter_2022'
+  233.07901785714287 0.0200297619047619 0.1790922619047619
+  4.852559523809524 0.0565922619047619 8.804866071428572
+  15.267961309523807 0.2469047619047618 'Wamba' 2.1404 27.99 'CD'
+  146871.0 False False 'España' 'Wamba_Winter_2022']]
+================================================================================
+So2 IQR: 2.13
+Values below -2.90 or above 5.63 could be outliers.
+Potential outliers for so2: [['Ankang' 'Northern Hemisphere' 'Winter' ... False '中国'
+  'Ankang_Winter_2022']
+ ['Ankang' 'Northern Hemisphere' 'Winter' ... False '中国'
+  'Ankang_Winter_2023']
+ ['Ankang' 'Northern Hemisphere' 'Winter' ... False '中国'
+  'Ankang_Winter_2024']
+ ...
+ ['Surat' 'Northern Hemisphere' 'Winter' ... False 'France'
+  'Surat_Winter_2023']
+ ['Surat' 'Northern Hemisphere' 'Winter' ... False 'France'
+  'Surat_Winter_2024']
+ ['Traralgon' 'Southern Hemisphere' 'Winter' ... False 'Australia'
+  'Traralgon_Winter_2023']]
+================================================================================
+Pm2_5 IQR: 10.68
+Values below -14.09 or above 28.62 could be outliers.
+Potential outliers for pm2_5: [['Abeokuta' 'Northern Hemisphere' 'Winter' ... False 'Nigeria'
+  'Abeokuta_Winter_2022']
+ ['Abeokuta' 'Northern Hemisphere' 'Winter' ... False 'Nigeria'
+  'Abeokuta_Winter_2023']
+ ['Abeokuta' 'Northern Hemisphere' 'Winter' ... False 'Nigeria'
+  'Abeokuta_Winter_2024']
+ ...
+ ['Tidjikja' 'Northern Hemisphere' 'Winter' ... False 'موريتانيا'
+  'Tidjikja_Winter_2022']
+ ['Tidjikja' 'Northern Hemisphere' 'Winter' ... False 'موريتانيا'
+  'Tidjikja_Winter_2023']
+ ['Tidjikja' 'Northern Hemisphere' 'Winter' ... False 'موريتانيا'
+  'Tidjikja_Winter_2024']]
+================================================================================
+Pm10 IQR: 19.09
+Values below -27.25 or above 49.12 could be outliers.
+Potential outliers for pm10: [['Abeokuta' 'Northern Hemisphere' 'Winter' ... False 'Nigeria'
+  'Abeokuta_Winter_2022']
+ ['Abeokuta' 'Northern Hemisphere' 'Winter' ... False 'Nigeria'
+  'Abeokuta_Winter_2023']
+ ['Abeokuta' 'Northern Hemisphere' 'Winter' ... False 'Nigeria'
+  'Abeokuta_Winter_2024']
+ ...
+ ['Tidjikja' 'Northern Hemisphere' 'Winter' ... False 'موريتانيا'
+  'Tidjikja_Winter_2024']
+ ['`Ataq' 'Northern Hemisphere' 'Winter' ... False 'اليمن'
+  '`Ataq_Winter_2022']
+ ['`Ataq' 'Northern Hemisphere' 'Winter' ... False 'اليمن'
+  '`Ataq_Winter_2023']]
+================================================================================
+Nh3 IQR: 1.45
+Values below -2.09 or above 3.71 could be outliers.
+Potential outliers for nh3: [['Abeokuta' 'Northern Hemisphere' 'Winter' ... False 'Nigeria'
+  'Abeokuta_Winter_2022']
+ ['Abeokuta' 'Northern Hemisphere' 'Winter' ... False 'Nigeria'
+  'Abeokuta_Winter_2023']
+ ['Abeokuta' 'Northern Hemisphere' 'Winter' ... False 'Nigeria'
+  'Abeokuta_Winter_2024']
+ ...
+ ['Ulanhot' 'Northern Hemisphere' 'Winter' ... False '中国'
+  'Ulanhot_Winter_2023']
+ ['Ulanhot' 'Northern Hemisphere' 'Winter' ... False '中国'
+  'Ulanhot_Winter_2024']
+ ['Villa De Cura' 'Northern Hemisphere' 'Winter' ... False 'Venezuela'
+  'Villa De Cura_Winter_2022']]
+================================================================================
+

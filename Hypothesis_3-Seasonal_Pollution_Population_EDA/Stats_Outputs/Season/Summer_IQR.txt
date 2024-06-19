@@ -1,0 +1,162 @@
+Season: Summer
+Co IQR: 66.98
+Values below 88.03 or above 355.96 could be outliers.
+Potential outliers for co: [['Abeokuta' 'Northern Hemisphere' 'Summer' ... False 'Nigeria'
+  'Abeokuta_Summer_2022']
+ ['Abeokuta' 'Northern Hemisphere' 'Summer' ... False 'Nigeria'
+  'Abeokuta_Summer_2023']
+ ['Ambon' 'Southern Hemisphere' 'Summer' ... False 'France'
+  'Ambon_Summer_2022']
+ ...
+ ['Surat' 'Northern Hemisphere' 'Summer' ... False 'France'
+  'Surat_Summer_2023']
+ ['Villa De Cura' 'Northern Hemisphere' 'Summer' ... False 'Venezuela'
+  'Villa De Cura_Summer_2023']
+ ['Yellowknife' 'Northern Hemisphere' 'Summer' ... False 'Canada'
+  'Yellowknife_Summer_2023']]
+================================================================================
+No IQR: 0.14
+Values below -0.19 or above 0.37 could be outliers.
+Potential outliers for no: [['Acapulco De Juarez' 'Northern Hemisphere' 'Summer' ... False 'México'
+  'Acapulco De Juarez_Summer_2022']
+ ['Acapulco De Juarez' 'Northern Hemisphere' 'Summer' ... False 'México'
+  'Acapulco De Juarez_Summer_2023']
+ ['Albany' 'Northern Hemisphere' 'Summer' ... False 'United States'
+  'Albany_Summer_2022']
+ ...
+ ['Villa De Cura' 'Northern Hemisphere' 'Summer' ... False 'Venezuela'
+  'Villa De Cura_Summer_2023']
+ ['Watertown Town' 'Northern Hemisphere' 'Summer' ... False
+  'United States' 'Watertown Town_Summer_2022']
+ ['Watertown Town' 'Northern Hemisphere' 'Summer' ... False
+  'United States' 'Watertown Town_Summer_2023']]
+================================================================================
+No2 IQR: 2.05
+Values below -2.71 or above 5.47 could be outliers.
+Potential outliers for no2: [['Acapulco De Juarez' 'Northern Hemisphere' 'Summer' ... False 'México'
+  'Acapulco De Juarez_Summer_2022']
+ ['Acapulco De Juarez' 'Northern Hemisphere' 'Summer' ... False 'México'
+  'Acapulco De Juarez_Summer_2023']
+ ['Albany' 'Northern Hemisphere' 'Summer' ... False 'United States'
+  'Albany_Summer_2022']
+ ...
+ ['Villa De Cura' 'Northern Hemisphere' 'Summer' ... False 'Venezuela'
+  'Villa De Cura_Summer_2023']
+ ['Watertown Town' 'Northern Hemisphere' 'Summer' ... False
+  'United States' 'Watertown Town_Summer_2022']
+ ['Watertown Town' 'Northern Hemisphere' 'Summer' ... False
+  'United States' 'Watertown Town_Summer_2023']]
+================================================================================
+O3 IQR: 29.58
+Values below -19.38 or above 98.96 could be outliers.
+Potential outliers for o3: [['Al Wajh' 'Northern Hemisphere' 'Summer' 2022 'Summer_2022'
+  190.30126388888888 0.1776296296296296 2.552125 107.70425462962965
+  1.6455092592592593 30.15368055555556 73.66255092592591
+  0.0717314814814814 'Al Wajh' 26.2324 36.4636 'SA' 43237.0 False False
+  'السعودية' 'Al Wajh_Summer_2022']
+ ['Albu Kamal' 'Northern Hemisphere' 'Summer' 2022 'Summer_2022'
+  188.00115740740745 0.0515416666666666 1.548324074074074
+  100.30435185185183 1.0371851851851852 29.56465740740741
+  146.06963888888887 1.0326018518518518 'Albu Kamal' 34.4504 40.9186 'SY'
+  80808.0 False False 'العراق' 'Albu Kamal_Summer_2022']
+ ['Az Zubayr' 'Northern Hemisphere' 'Summer' 2022 'Summer_2022'
+  329.1608981481482 0.5808657407407408 11.980837962962964
+  162.00129166666665 13.86101388888889 44.33741203703703
+  171.60932407407407 1.2139722222222222 'Az Zubayr' 30.3892 47.7081 'IQ'
+  370000.0 False False 'العراق' 'Az Zubayr_Summer_2022']
+ ['Az Zubayr' 'Northern Hemisphere' 'Summer' 2023 'Summer_2023'
+  321.362776268116 0.5752173913043478 9.856064311594205 152.0052400362319
+  10.37019474637681 32.55677536231884 104.05457427536231
+  1.2117798913043478 'Az Zubayr' 30.3892 47.7081 'IQ' 370000.0 False
+  False 'العراق' 'Az Zubayr_Summer_2023']
+ ['Freeport' 'Northern Hemisphere' 'Summer' 2022 'Summer_2022'
+  302.00914814814814 1.4589212962962963 15.99875925925926
+  100.80424537037038 3.717921296296296 13.885097222222225
+  18.493111111111112 0.5935694444444444 'Freeport' 40.6515 -73.585 'US'
+  42956.0 False False 'United States' 'Freeport_Summer_2022']
+ ["Karbala'" 'Northern Hemisphere' 'Summer' 2022 'Summer_2022'
+  219.8838055555556 0.1603564814814815 4.186819444444445
+  127.22435185185184 3.953379629629629 32.385152777777776
+  134.7121064814815 0.3393657407407407 "Karbala'" 32.6167 44.0333 'IQ'
+  690100.0 False False 'العراق' "Karbala'_Summer_2022"]
+ ["Karbala'" 'Northern Hemisphere' 'Summer' 2023 'Summer_2023'
+  245.97284420289856 0.1752898550724637 4.4460869565217385
+  118.09229166666668 4.90865036231884 22.50177083333333 85.25988677536232
+  0.3773097826086957 "Karbala'" 32.6167 44.0333 'IQ' 690100.0 False False
+  'العراق' "Karbala'_Summer_2023"]
+ ['Ontario' 'Northern Hemisphere' 'Summer' 2022 'Summer_2022'
+  319.87439814814815 3.273101851851852 29.059657407407407
+  101.06937962962964 7.023398148148148 16.153796296296296
+  24.51137037037037 1.489523148148148 'Ontario' 34.0393 -117.606 'US'
+  185010.0 False False 'Canada' 'Ontario_Summer_2022']
+ ['Ontario' 'Northern Hemisphere' 'Summer' 2023 'Summer_2023'
+  356.3837907608696 2.66817481884058 30.03389945652174 104.6299411231884
+  7.640901268115942 19.933052536231884 26.82548460144928
+  1.4312590579710145 'Ontario' 34.0393 -117.606 'US' 185010.0 False False
+  'Canada' 'Ontario_Summer_2023']]
+================================================================================
+So2 IQR: 0.92
+Values below -1.17 or above 2.51 could be outliers.
+Potential outliers for so2: [['Abeokuta' 'Northern Hemisphere' 'Summer' ... False 'Nigeria'
+  'Abeokuta_Summer_2022']
+ ['Abeokuta' 'Northern Hemisphere' 'Summer' ... False 'Nigeria'
+  'Abeokuta_Summer_2023']
+ ['Ankang' 'Northern Hemisphere' 'Summer' ... False '中国'
+  'Ankang_Summer_2022']
+ ...
+ ['Traralgon' 'Southern Hemisphere' 'Summer' ... False 'Australia'
+  'Traralgon_Summer_2024']
+ ["Ust'-Kut" 'Northern Hemisphere' 'Summer' ... False 'Россия'
+  "Ust'-Kut_Summer_2022"]
+ ["Ust'-Kut" 'Northern Hemisphere' 'Summer' ... False 'Россия'
+  "Ust'-Kut_Summer_2023"]]
+================================================================================
+Pm2_5 IQR: 4.75
+Values below -5.15 or above 13.86 could be outliers.
+Potential outliers for pm2_5: [['Abeokuta' 'Northern Hemisphere' 'Summer' ... False 'Nigeria'
+  'Abeokuta_Summer_2022']
+ ['Abeokuta' 'Northern Hemisphere' 'Summer' ... False 'Nigeria'
+  'Abeokuta_Summer_2023']
+ ['Agadez' 'Northern Hemisphere' 'Summer' ... False 'Niger'
+  'Agadez_Summer_2022']
+ ...
+ ['Yellowknife' 'Northern Hemisphere' 'Summer' ... False 'Canada'
+  'Yellowknife_Summer_2023']
+ ['`Ataq' 'Northern Hemisphere' 'Summer' ... False 'اليمن'
+  '`Ataq_Summer_2022']
+ ['`Ataq' 'Northern Hemisphere' 'Summer' ... False 'اليمن'
+  '`Ataq_Summer_2023']]
+================================================================================
+Pm10 IQR: 8.88
+Values below -10.97 or above 24.57 could be outliers.
+Potential outliers for pm10: [['Abeokuta' 'Northern Hemisphere' 'Summer' ... False 'Nigeria'
+  'Abeokuta_Summer_2022']
+ ['Abeokuta' 'Northern Hemisphere' 'Summer' ... False 'Nigeria'
+  'Abeokuta_Summer_2023']
+ ['Agadez' 'Northern Hemisphere' 'Summer' ... False 'Niger'
+  'Agadez_Summer_2022']
+ ...
+ ['Yellowknife' 'Northern Hemisphere' 'Summer' ... False 'Canada'
+  'Yellowknife_Summer_2023']
+ ['`Ataq' 'Northern Hemisphere' 'Summer' ... False 'اليمن'
+  '`Ataq_Summer_2022']
+ ['`Ataq' 'Northern Hemisphere' 'Summer' ... False 'اليمن'
+  '`Ataq_Summer_2023']]
+================================================================================
+Nh3 IQR: 0.87
+Values below -1.25 or above 2.23 could be outliers.
+Potential outliers for nh3: [['Abeokuta' 'Northern Hemisphere' 'Summer' ... False 'Nigeria'
+  'Abeokuta_Summer_2022']
+ ['Abeokuta' 'Northern Hemisphere' 'Summer' ... False 'Nigeria'
+  'Abeokuta_Summer_2023']
+ ['Altay' 'Northern Hemisphere' 'Summer' ... False 'Россия'
+  'Altay_Summer_2022']
+ ...
+ ['Ulanhot' 'Northern Hemisphere' 'Summer' ... False '中国'
+  'Ulanhot_Summer_2023']
+ ['Villa De Cura' 'Northern Hemisphere' 'Summer' ... False 'Venezuela'
+  'Villa De Cura_Summer_2022']
+ ['Villa De Cura' 'Northern Hemisphere' 'Summer' ... False 'Venezuela'
+  'Villa De Cura_Summer_2023']]
+================================================================================
+
