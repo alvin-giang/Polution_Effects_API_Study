@@ -1,0 +1,376 @@
+name,latitude,longitude,country,population,is_capital,is_rural,country_full
+Bethel Park,40.3239,-80.0364,US,32345.0,False,False,United States
+Ribeira Grande,17.1825,-25.065,CV,,False,False,Portugal
+Edinburgh Of The Seven Seas,-37.0675,-12.3105,SH,,False,False,Ascension and Tristan da Cunha
+Albany,42.6664,-73.7987,US,586383.0,False,False,United States
+Abeokuta,7.15,3.35,NG,888924.0,False,False,Nigeria
+Praia Da Vitoria,38.7333,-27.0667,PT,21035.0,False,False,Portugal
+Hamilton,43.2567,-79.8692,CA,693645.0,False,False,Canada
+Suntar,62.1444,117.632,RU,8639.0,False,True,Россия
+Puerto Natales,-51.7263,-72.5062,CL,19023.0,False,False,Chile
+Badger,64.8006,-147.388,US,18792.0,False,False,Canada
+Ntcheu,-14.8167,34.6333,MW,10445.0,False,True,Malawi
+Georgetown,6.7833,-58.1667,GY,200500.0,True,False,Guyana
+La Huacana,18.9625,-101.807,MX,9374.0,False,True,México
+Kourou,5.16,-52.6499,GF,24029.0,False,False,France
+Waitangi,-43.951,-176.561,NZ,300.0,False,True,New Zealand / Aotearoa
+Port Mathurin,-19.6833,63.4211,MU,5929.0,False,True,Mauritius / Maurice
+Avarua,-21.207,-159.771,CK,5445.0,False,True,Kūki ʻĀirani
+Yellowknife,62.4709,-114.405,CA,19569.0,False,False,Canada
+Haiku-Pauwela,20.9156,-156.302,US,8061.0,False,True,United States
+Tolanaro,-25.0333,46.9833,MG,16818.0,False,False,Madagasikara / Madagascar
+Grytviken,-54.2806,-36.508,GS,99.0,False,True,South Georgia and the South Sandwich Islands
+Kodiak,57.7934,-152.406,US,8851.0,False,True,United States
+Fonte Boa,-2.5138,-66.0916,BR,16060.0,False,False,Brasil
+Brownwood,31.7127,-98.9767,US,21729.0,False,False,United States
+Geraldton,-28.7744,114.609,AU,37648.0,False,False,Australia
+Sinop,42.0267,35.1511,TR,64544.0,False,False,Türkiye
+Margaret River,-33.955,115.075,AU,6392.0,False,True,Australia
+Hawaiian Paradise Park,19.5828,-154.969,US,11479.0,False,True,United States
+Coquimbo,-29.9532,-71.338,CL,204068.0,False,False,Chile
+Iqaluit,63.7598,-68.5107,CA,7740.0,False,True,Canada
+Carnarvon,-30.9667,22.1333,ZA,5785.0,False,True,United Kingdom
+Port Elizabeth,-33.9581,25.6,ZA,312392.0,False,False,South Africa
+Baiquan,47.6018,126.082,CN,70472.0,False,False,中国
+Camana,-16.6233,-72.7092,PE,20956.0,False,False,Perú
+Neiafu,-18.6496,-173.983,TO,7391.0,False,True,Tonga
+Reggio Emilia,44.7,10.6333,IT,170996.0,False,False,Italia
+Invercargill,-46.429,168.362,NZ,48700.0,False,False,New Zealand / Aotearoa
+Bratsk,56.1667,101.617,RU,231602.0,False,False,الإمارات العربية المتحدة
+Ponta Delgada,37.74,-25.67,PT,68809.0,False,False,Portugal
+Dillingen,49.35,6.7333,DE,20048.0,False,False,Deutschland
+Tralee,52.2675,-9.6962,IE,26384.0,False,False,Éire / Ireland
+Lompoc,34.6618,-120.471,US,52020.0,False,False,United States
+Kapuskasing,49.4167,-82.4333,CA,8292.0,False,True,Canada
+Sariwon,38.5039,125.759,KP,307764.0,False,False,조선민주주의인민공화국
+Vorkuta,67.5,64.0333,RU,56088.0,False,False,Россия
+Broken Hill,-31.9567,141.468,AU,17734.0,False,False,Australia
+Klyuchi,56.3,160.85,RU,1089.0,False,True,Россия
+Rio Grande,-32.0495,-52.12,BR,187838.0,False,False,United States
+Hermanus,-34.4167,19.3,ZA,25153.0,False,False,South Africa
+Bilibino,68.05,166.45,RU,5319.0,False,True,Россия
+Saldanha,-32.9978,17.9456,ZA,68284.0,False,False,Portugal
+College Station,30.5852,-96.296,US,215243.0,False,False,United States
+Mount Gambier,-37.8294,140.783,AU,29639.0,False,False,Australia
+Port Isabel,26.054,-97.2505,US,18686.0,False,False,United States
+Pemangkat,1.1727,108.981,ID,44783.0,False,False,Indonesia
+Gorontalo,0.5411,123.059,ID,191897.0,False,False,Indonesia
+Surat,21.17,72.83,IN,5807000.0,False,False,France
+Merced,37.3057,-120.478,US,145149.0,False,False,United States
+Ushuaia,-54.8072,-68.3044,AR,56956.0,False,False,Argentina
+Puerto Pimentel,-6.8382,-79.9359,PE,15552.0,False,False,Perú
+La Ronge,55.1,-105.3,CA,5671.0,False,True,Canada
+Punta Arenas,-53.1627,-70.9081,CL,123403.0,False,False,Chile
+Luderitz,-26.6478,15.1578,,12537.0,False,True,Namibia
+Nueva Gerona,21.8847,-82.8011,CU,46264.0,False,False,Cuba
+Serdar,38.9764,56.2758,TM,89582.0,False,False,Türkiye
+Ambon,-3.705,128.17,ID,372249.0,False,False,France
+Qamdo,31.1375,97.1777,CN,598862.0,False,False,中国
+St. John's,47.4817,-52.7971,CA,108860.0,False,False,Canada
+Dudinka,69.4,86.1833,RU,21015.0,False,False,Россия
+Ndende,-2.3829,11.3833,GA,6200.0,False,True,Congo
+Jamestown,42.0975,-79.2366,US,40493.0,False,False,United States
+Chinde,-18.5833,36.4667,MZ,16500.0,False,False,Moçambique
+Machakos,-1.5167,37.2667,KE,114109.0,False,False,Kenya
+San Pedro Pochutla,15.7463,-96.4652,MX,13685.0,False,True,México
+Thompson,41.6474,-74.6745,US,14946.0,False,True,Canada
+Al Ghayzah,16.2394,52.1638,YE,27404.0,False,False,اليمن
+Anadyr,64.7333,177.517,RU,15604.0,False,False,Россия
+Whitehorse,60.7029,-135.069,CA,25085.0,False,False,Canada
+Kingscliff,-28.2564,153.578,AU,7464.0,False,True,Australia
+Newman,37.3157,-121.021,US,11783.0,False,True,United States
+Tamanrasset,22.785,5.5228,DZ,76000.0,False,False,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر
+Mount Vernon,40.9136,-73.8291,US,67345.0,False,False,United States
+Savanna-La-Mar,18.2167,-78.1333,JM,30000.0,False,False,Jamaica
+Hammerfest,70.6634,23.6821,NO,8073.0,False,True,Norge
+San Patricio,19.2,-104.683,MX,7569.0,False,True,United States
+Lihue,21.9728,-159.354,US,7381.0,False,True,United States
+Okhotsk,59.383,143.217,RU,5570.0,False,True,Sea of Okhotsk
+New Norfolk,-42.7828,147.059,AU,5432.0,False,True,Australia
+San Antonio Oeste,-40.7333,-64.95,AR,16265.0,False,False,Argentina
+Xai-Xai,-25.05,33.65,MZ,116343.0,False,False,Moçambique
+Chibougamau,49.9167,-74.3667,CA,7504.0,False,True,Canada
+Bredasdorp,-34.5333,20.0417,ZA,14936.0,False,True,South Africa
+Port Saint John's,-31.6288,29.5369,ZA,5939.0,False,True,Australia
+Minusinsk,53.7,91.6833,RU,68007.0,False,False,Россия
+Puerto Baquerizo Moreno,-0.9025,-89.6092,EC,6533.0,False,True,Ecuador
+Udachnyy,66.4,112.3,RU,11676.0,False,True,Россия
+Stanley,53.7145,-1.476,GB,15314.0,False,False,Falkland Islands
+Manta,-0.95,-80.7162,EC,217553.0,False,False,Italia
+Kavaratti,10.5626,72.6369,IN,10688.0,False,True,India
+Sandnessjoen,66.0167,12.6333,NO,6052.0,False,True,Norge
+Magadan,59.5667,150.8,RU,92782.0,False,False,Россия
+Aasiaat,68.7097,-52.8694,GL,3134.0,False,True,Kalaallit Nunaat
+Mount Pearl Park,47.5189,-52.8058,CA,22957.0,False,False,Country not found
+Albu Kamal,34.4504,40.9186,SY,80808.0,False,False,العراق
+Malanje,-9.54,16.34,AO,125856.0,False,False,Angola
+Mutriku,43.3072,-2.385,ES,5333.0,False,True,España
+Banjarmasin,-3.3333,114.583,ID,692793.0,False,False,Indonesia
+Fort Saskatchewan,53.7128,-113.213,CA,24149.0,False,False,Canada
+Vadso,70.0667,29.75,NO,4902.0,False,True,Norge
+Verkhnevilyuysk,63.4457,120.317,RU,6341.0,False,True,Россия
+Greymouth,-42.4667,171.2,NZ,8160.0,False,True,New Zealand / Aotearoa
+Margate,26.2466,-80.2119,US,58796.0,False,False,United Kingdom
+Reggane,26.7,0.1666,DZ,32974.0,False,False,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر
+Freetown,8.4833,-13.2331,SL,951000.0,True,False,Sierra Leone
+Shingu,33.7153,130.447,JP,32691.0,False,False,日本
+Viedma,-40.8,-63.0,AR,59122.0,False,False,Argentina
+Fort Bragg,39.4399,-123.801,US,10374.0,False,True,United States
+Vikhorevka,56.1167,101.167,RU,21118.0,False,False,Россия
+Quang Ngai,15.1206,108.792,VN,260252.0,False,False,Việt Nam
+Qaqortoq,60.7167,-46.0333,GL,3093.0,False,True,Kalaallit Nunaat
+Leava,-14.2933,-178.158,WF,,False,False,France
+Khandyga,62.666,135.6,RU,6796.0,False,True,Россия
+Jeddah,21.5428,39.1728,SA,3976000.0,False,False,السعودية
+Barreiras,-12.1528,-44.99,BR,158292.0,False,False,Brasil
+Tidjikja,18.55,-11.4166,MR,19981.0,False,False,موريتانيا
+Port Douglas,-16.4834,145.465,AU,3504.0,False,True,Australia
+Rundu,-17.9167,19.7667,,63431.0,False,False,Namibia
+Hithadhoo,-0.6,73.0833,MV,,False,False,ދިވެހިރާއްޖެ
+Kidal,18.4411,1.4078,ML,,False,False,Mali
+Changchun,43.9,125.2,CN,7674439.0,False,False,中国
+Wailua Homesteads,22.065,-159.377,US,5900.0,False,True,United States
+Alotau,-10.3167,150.433,PG,11624.0,False,True,Papua Niugini
+Mandi Bahauddin,32.5861,73.4917,PK,157352.0,False,False,پاکستان
+Port Shepstone,-30.7411,30.4547,ZA,52793.0,False,False,South Africa
+Katsuura,35.1525,140.321,JP,17324.0,False,False,日本
+Lipany,49.1528,20.9619,SK,6484.0,False,True,Slovensko
+Batticaloa,7.717,81.7,LK,129222.0,False,False,ශ්‍රී ලංකාව இலங்கை
+Jiayuguan,39.8112,98.2862,CN,231853.0,False,False,中国
+Luleburgaz,41.4056,27.3569,TR,148037.0,False,False,Türkiye
+Tumaco,1.81,-78.81,CO,86713.0,False,False,Colombia
+Makassar,-5.1331,119.414,ID,1651146.0,False,False,Indonesia
+Mirnyy,62.5333,113.95,RU,35223.0,False,False,Россия
+Kingston,17.9714,-76.7931,JM,580000.0,True,False,Jamaica
+Dubbo,-32.2569,148.601,AU,38392.0,False,False,Australia
+Siguiri,11.4171,-9.1666,GN,50159.0,False,False,Guinée
+Anamosa,42.1091,-91.2758,US,5500.0,False,True,United States
+Lagunas,-20.9829,-69.6833,CL,10.0,False,True,México
+Jalalpur Jattan,32.7667,74.2167,PK,90130.0,False,False,پاکستان
+Saint-Philippe,45.35,-73.47,CA,5495.0,False,True,Canada
+Luganville,-15.5126,167.177,VU,13397.0,False,True,Vanuatu
+Mossel Bay,-34.1833,22.1333,ZA,59031.0,False,False,South Africa
+Tiksi,71.6269,128.835,RU,5700.0,False,True,Suomi / Finland
+Kamina,-8.73,25.01,CD,128803.0,False,False,République démocratique du Congo
+Port Lincoln,-34.7322,135.859,AU,16326.0,False,False,Australia
+Keflavik,64.0,-22.5819,IS,16463.0,False,False,Ísland
+Cabo San Lucas,22.8897,-109.916,MX,81111.0,False,False,México
+Byalynichy,53.9956,29.7096,BY,10000.0,False,True,Беларусь
+Antsiranana,-12.2765,49.3115,MG,82937.0,False,False,Madagasikara / Madagascar
+Az Zubayr,30.3892,47.7081,IQ,370000.0,False,False,العراق
+Kyrenia,35.3403,33.3192,CY,33207.0,False,False,Κύπρος - Kıbrıs
+Iringa,-7.77,35.69,TZ,111820.0,False,False,Tanzania
+Fort St. John,56.2465,-120.848,CA,20155.0,False,False,Canada
+Port Alfred,-33.6,26.8833,ZA,17959.0,False,False,South Africa
+Sisimiut,66.9389,-53.6722,GL,5539.0,False,True,Kalaallit Nunaat
+Kudahuvadhoo,2.6717,72.8936,MV,,False,False,ދިވެހިރާއްޖެ
+Radolfzell Am Bodensee,47.7369,8.9697,DE,31203.0,False,False,Deutschland
+Ulanhot,46.0726,122.072,CN,327081.0,False,False,中国
+Saddiqabad,28.3006,70.1302,PK,189876.0,False,False,پاکستان
+Muynoq,43.7667,59.0333,UZ,18196.0,False,False,Oʻzbekiston
+Nakasongola,1.3089,32.4564,UG,6921.0,False,True,Uganda
+Ancud,-41.8682,-73.8287,CL,28162.0,False,False,Chile
+Eisenstadt,47.8456,16.5189,AT,14476.0,False,True,Österreich
+Dunedin,-45.8667,170.5,NZ,126255.0,False,False,New Zealand / Aotearoa
+Pacific Grove,36.6192,-121.925,US,15413.0,False,False,United States
+Puerto Ayora,-0.7444,-90.3139,EC,11822.0,False,True,Ecuador
+Three Points,32.0596,-111.287,US,5161.0,False,True,United States
+Lerwick,60.155,-1.145,GB,6958.0,False,True,United Kingdom
+Kostroma,57.7667,40.9333,RU,277648.0,False,False,Россия
+Ilulissat,69.2167,-51.1,GL,4670.0,False,True,Kalaallit Nunaat
+Sarh,9.15,18.3833,TD,169196.0,False,False,Tchad تشاد
+Victoria Falls,-17.9333,25.8333,ZW,33060.0,False,False,Zambia
+Tokmok,42.839,75.291,KG,53231.0,False,False,Кыргызстан
+Aydincik,36.1667,33.35,TR,11088.0,False,True,Türkiye
+Queenstown,-31.9,26.8833,ZA,105309.0,False,False,New Zealand / Aotearoa
+Hinton,53.4114,-117.564,CA,9882.0,False,True,United States
+Arafat,18.0583,-15.9621,MR,,False,False,موريتانيا
+Kamloops,50.6761,-120.341,CA,100046.0,False,False,Canada
+Ternate,0.7833,127.367,ID,204215.0,False,False,Italia
+Conception Bay South,47.5167,-52.9833,CA,26199.0,False,False,Canada
+Madalena,38.5356,-28.5234,PT,6049.0,False,True,Italia
+Buenaventura,3.8724,-77.0505,CO,252805.0,False,False,España
+Tshabong,-26.02,22.4056,BW,9679.0,False,True,Botswana
+Coari,-4.085,-63.1414,BR,53305.0,False,False,Brasil
+Aginskoye,51.1031,114.523,RU,11491.0,False,True,Россия
+Whangarei,-35.725,174.324,NZ,52600.0,False,False,New Zealand / Aotearoa
+Noshiromachi,40.2122,140.027,JP,50842.0,False,False,Country not found
+Hadibu,12.6519,54.0239,YE,11396.0,False,True,اليمن
+Sorong,-0.8667,131.25,ID,272349.0,False,False,Indonesia
+Shimanovsk,52.0,127.667,RU,18643.0,False,False,Россия
+Byron Bay,-28.6483,153.618,AU,5521.0,False,True,Australia
+Las Tablas,7.7667,-80.2833,PA,9255.0,False,True,Panamá
+Ishinari,33.3211,130.399,JP,16328.0,False,False,日本
+Ciudad Lazaro Cardenas,17.9561,-102.192,MX,79200.0,False,False,México
+Biggleswade,52.0855,-0.2557,GB,16551.0,False,False,United Kingdom
+Banda Aceh,5.55,95.3175,ID,235305.0,False,False,Indonesia
+Highland Park,40.5006,-74.4283,US,13711.0,False,True,United States
+Guangshui,31.6189,113.823,CN,755910.0,False,False,中国
+Freeland,43.5198,-84.1124,US,7125.0,False,True,Canada
+Lillehammer,61.1161,10.4578,NO,20580.0,False,False,Norge
+Karbala',32.6167,44.0333,IQ,690100.0,False,False,العراق
+Polyarnyy,69.1983,33.4561,RU,17605.0,False,False,Country not found
+Tarawa,1.3382,173.018,KI,28802.0,True,False,Kiribati
+Rawson,-43.3,-65.1,AR,31787.0,False,False,Argentina
+Al Wajh,26.2324,36.4636,SA,43237.0,False,False,السعودية
+Florence,43.7714,11.2542,IT,382258.0,False,False,Italia
+Prince Rupert,54.3122,-130.327,CA,12220.0,False,True,Canada
+Ciudad Lazaro Cardenas,17.9561,-102.192,MX,79200.0,False,False,México
+San Pablo De Las Salinas,19.6656,-99.0917,MX,189453.0,False,False,México
+Benguela,-12.55,13.4167,AO,513000.0,False,False,Angola
+Karukh,34.4868,62.5918,AF,17484.0,False,False,افغانستان
+Espargos,16.7546,-22.9453,CV,6173.0,False,True,Cabo Verde
+Feodosiya,45.0489,35.3792,UA,67993.0,False,False,Україна
+Fort Wayne,41.0886,-85.1437,US,334122.0,False,False,United States
+Traralgon,-38.1958,146.54,AU,25485.0,False,False,Australia
+Asau,-13.5196,-172.638,WS,,False,False,Sāmoa
+Acapulco De Juarez,16.8636,-99.8825,MX,687608.0,False,False,México
+Rajapalaiyam,9.4204,77.58,IN,369991.0,False,False,India
+Agadez,16.9959,7.9828,NE,117770.0,False,False,Niger
+Ballina,-28.8333,153.533,AU,26381.0,False,False,Éire / Ireland
+Ketchikan,55.3556,-131.67,US,10652.0,False,True,United States
+East London,-33.0153,27.9116,ZA,338627.0,False,False,South Africa
+Moyale,3.527,39.056,KE,24837.0,False,False,Kenya
+Plover,44.4614,-89.5383,US,13099.0,False,True,United States
+Ontario,34.0393,-117.606,US,185010.0,False,False,Canada
+Selkirk,50.1436,-96.8839,CA,10278.0,False,True,Canada
+Monroe,32.5183,-92.0774,US,112891.0,False,False,United States
+Al Jawf,24.2167,23.3,LY,24132.0,False,False,السعودية
+Taksimo,56.3315,114.89,RU,10359.0,False,True,Россия
+Tommot,58.9667,126.267,RU,6935.0,False,True,Россия
+Villa De Cura,10.0386,-67.4894,VE,145098.0,False,False,Venezuela
+Stonegate,39.5356,-104.803,US,9511.0,False,True,United Kingdom
+Toliara,-23.35,43.6667,MG,115319.0,False,False,Madagasikara / Madagascar
+Bandarbeyla,9.4833,50.8167,SO,13753.0,False,True,Soomaaliya الصومال
+Karabanovo,56.3089,38.7014,RU,14786.0,False,True,Россия
+Itoman,26.1236,127.666,JP,60546.0,False,False,日本
+Vila Velha,3.2167,-51.2167,BR,1209091.0,False,False,Brasil
+Huarmey,-10.0686,-78.1603,PE,16172.0,False,False,Perú
+Imbituba,-28.2296,-48.66,BR,43450.0,False,False,Brasil
+Mahibadhoo,3.7571,72.9689,MV,,False,False,ދިވެހިރާއްޖެ
+Sioux Center,43.0748,-96.1707,US,7174.0,False,True,United States
+Watertown Town,42.37,-71.1774,US,35939.0,False,False,United States
+Las Palmas,28.1272,-15.4314,ES,379925.0,False,False,España
+Porto Novo,17.0208,-25.0667,CV,,False,False,Bénin
+Matola,-25.9667,32.4667,MZ,1032197.0,False,False,Moçambique
+Hoa Binh,20.8172,105.338,VN,121309.0,False,False,Việt Nam
+Nuuk,64.175,-51.7333,GL,18326.0,False,False,Kalaallit Nunaat
+Poronaysk,49.2167,143.1,RU,15311.0,False,False,Россия
+Guerrero Negro,27.9589,-114.056,MX,14316.0,False,True,México
+Sitka,57.2401,-135.315,US,6720.0,False,True,United States
+Lethem,3.3833,-59.8,GY,3000.0,False,True,Guyana
+Tulun,54.5667,100.567,RU,41640.0,False,False,Россия
+Hotan,37.1012,79.9327,CN,322300.0,False,False,中国
+Las Palmas,28.1272,-15.4314,ES,379925.0,False,False,España
+Labrador City,52.95,-66.9167,CA,7220.0,False,True,Canada
+Smolensk,54.7828,32.0453,RU,329853.0,False,False,Россия
+Floro,61.5986,5.0172,NO,8925.0,False,True,Brasil
+Zaraza,9.3394,-65.3167,VE,62027.0,False,False,Venezuela
+Chonchi,-42.6238,-73.7725,CL,5632.0,False,True,Chile
+Kununurra,-15.7736,128.739,AU,5308.0,False,True,Australia
+Chui,-33.6908,-53.4569,BR,5917.0,False,True,India
+San Julian,-49.3,-67.7167,AR,2347.0,False,True,France
+Tchibanga,-2.9331,10.9831,GA,19365.0,False,False,Gabon
+Narvik,68.4363,17.3983,NO,14148.0,False,True,Norge
+Pingliang,35.5412,106.682,CN,2190000.0,False,False,中国
+Taltal,-25.4,-70.47,CL,10018.0,False,True,Chile
+Pyapon,16.2853,95.6786,MM,76741.0,False,False,မြန်မာ
+Alamosa,37.4751,-105.877,US,10652.0,False,True,United States
+Riviere-Du-Loup,47.8333,-69.5333,CA,19447.0,False,False,Canada
+Mumbwa,-14.9796,27.07,ZM,19086.0,False,False,Zambia
+Macau,22.203,113.545,MO,568700.0,False,False,中国
+Sudzha,51.1907,35.2708,RU,5759.0,False,True,Россия
+Bayanhongor,46.1944,100.718,MN,26252.0,False,False,Монгол улс ᠮᠤᠩᠭᠤᠯ ᠤᠯᠤᠰ
+Pegnitz,49.7564,11.545,DE,13244.0,False,True,Deutschland
+Colonia Del Sol,22.9125,-109.921,MX,64055.0,False,False,México
+Altay,47.8666,88.1166,CN,142000.0,False,False,Россия
+Vilyuchinsk,52.9333,158.4,RU,21973.0,False,False,Россия
+Nampula,-15.1167,39.2667,MZ,477900.0,False,False,Moçambique
+Sassandra,4.9504,-6.0833,CI,38411.0,False,False,Côte d’Ivoire
+Nelson Bay,-32.715,152.151,AU,11820.0,False,True,Australia
+Manokwari,-0.8711,134.069,ID,74504.0,False,False,Indonesia
+Rampur,28.8154,79.025,IN,296418.0,False,False,India
+Pangkalpinang,-2.1,106.1,ID,125933.0,False,False,Indonesia
+Kerikeri,-35.2244,173.951,NZ,6960.0,False,True,New Zealand / Aotearoa
+Fabens,31.5136,-106.152,US,5946.0,False,True,United States
+Seogwipo,33.2497,126.56,KR,153861.0,False,False,대한민국
+Cerklje Na Gorenjskem,46.2542,14.4886,SI,,False,False,Slovenija
+Mont-Laurier,46.55,-75.5,CA,13779.0,False,True,Canada
+Nar'yan-Mar,67.6378,53.0067,RU,24775.0,False,False,Россия
+Benghazi,32.1167,20.0667,LY,631555.0,False,False,ليبيا
+Caluula,11.967,50.75,SO,513.0,False,True,Soomaaliya الصومال
+Nouadhibou,20.95,-17.0333,MR,118000.0,False,False,موريتانيا
+Tekeli,44.8333,78.8167,KZ,30707.0,False,False,Türkiye
+City Of Paranaque,14.4667,121.017,PH,665822.0,False,False,Pilipinas
+Naifaru,5.4442,73.3662,MV,,False,False,ދިވެހިރާއްޖެ
+Gaspe,48.8333,-64.4833,CA,15163.0,False,False,Canada
+Balurghat,25.2167,88.7667,IN,153279.0,False,False,India
+Ghanzi,-21.7,21.65,BW,6306.0,False,True,Botswana
+Karratha,-20.7364,116.846,AU,16708.0,False,False,Australia
+Alice Springs,-23.7,133.867,AU,23726.0,False,False,Australia
+Turinsk,58.0333,63.7,RU,17060.0,False,False,Россия
+Cruz Alta,-28.6386,-53.6064,BR,62821.0,False,False,Brasil
+Tweed Heads,-28.1833,153.55,AU,8176.0,False,True,Australia
+San Javier,-35.5924,-71.7353,CL,29017.0,False,False,España
+Harstad,68.7989,16.5314,NO,21070.0,False,False,Norge
+Camabatela,-8.1896,15.37,AO,12837.0,False,True,Angola
+Puerto San Jose,13.9333,-90.8167,GT,23887.0,False,False,Guatemala
+Howard Springs,-12.4922,131.053,AU,5132.0,False,True,Australia
+Farafangana,-22.8166,47.8332,MG,24764.0,False,False,Madagasikara / Madagascar
+Jayapura,-2.5333,140.717,ID,413283.0,False,False,Indonesia
+Kavieng,-2.5667,150.8,PG,19728.0,False,False,Papua Niugini
+Christchurch,-43.5309,172.637,NZ,377200.0,False,False,New Zealand / Aotearoa
+Acarau,-2.8896,-40.12,BR,28389.0,False,False,Brasil
+Portland,45.5372,-122.65,US,2074775.0,False,False,United States
+Jumla,29.25,82.2167,NP,9073.0,False,True,नेपाल
+Mount Isa,-20.7333,139.5,AU,18588.0,False,False,Australia
+Brookings,44.3022,-96.7859,US,24887.0,False,False,United States
+Lubango,-14.9167,13.5,AO,,False,False,Angola
+City Of Isabela,6.7,121.967,PH,112788.0,False,False,Pilipinas
+Barcelos,-0.9736,-62.9269,BR,12584.0,False,True,Portugal
+Palmerston North,-40.3549,175.609,NZ,80300.0,False,False,New Zealand / Aotearoa
+Myski,53.7,87.8167,RU,41379.0,False,False,Россия
+Basco,20.4486,121.97,PH,,False,False,United States
+Olinda,-8.0,-34.85,BR,921840.0,False,False,Brasil
+Cobourg,43.9667,-78.1667,CA,19440.0,False,False,Deutschland
+Nadi,-17.8,177.417,FJ,42284.0,False,False,Viti
+Todos Santos,23.4486,-110.223,MX,6485.0,False,True,México
+Morozovsk,48.35,41.8333,RU,25198.0,False,False,Россия
+Ust'-Ilimsk,58.0,102.667,RU,81976.0,False,False,Россия
+Camiri,-20.05,-63.52,BO,27961.0,False,False,Bolivia
+Ghadamis,30.1333,9.5,LY,6623.0,False,True,ليبيا
+Smithers,54.7819,-127.168,CA,5351.0,False,True,Canada
+Freeport,40.6515,-73.585,US,42956.0,False,False,United States
+El Calafate,-50.3395,-72.2649,AR,21132.0,False,False,Argentina
+Box Elder,44.1121,-103.083,US,10228.0,False,True,United States
+Corner Brook,48.9287,-57.926,CA,19806.0,False,False,Canada
+Ironwood,46.4522,-90.1505,US,6448.0,False,True,United States
+Darlowo,54.4167,16.4167,PL,13943.0,False,True,Polska
+Ulaangom,49.9833,92.0667,MN,26319.0,False,False,Монгол улс ᠮᠤᠩᠭᠤᠯ ᠤᠯᠤᠰ
+Lake Havasu City,34.5006,-114.311,US,56820.0,False,False,United States
+Diapaga,12.077,1.796,BF,26013.0,False,False,Burkina Faso
+Wamba,2.1404,27.99,CD,146871.0,False,False,España
+Khorugh,37.4917,71.5575,TJ,28098.0,False,False,Тоҷикистон
+Mariehamn,60.0986,19.9444,FI,11461.0,False,True,Suomi / Finland
+Oneida,43.0769,-75.6621,US,20828.0,False,False,United States
+Kumagaya,36.1472,139.389,JP,194959.0,False,False,日本
+Pisco,-13.71,-76.2032,PE,109965.0,False,False,Perú
+Labytnangi,66.65,66.4,RU,26281.0,False,False,Россия
+`Ataq,14.55,46.8,YE,37315.0,False,False,اليمن
+Weno,7.4458,151.85,FM,,False,False,Micronesia
+Achacachi,-16.0444,-68.685,BO,8857.0,False,True,Bolivia
+San Jose Del Guaviare,2.5653,-72.6386,CO,68878.0,False,False,Colombia
+Ust'-Kut,56.8,105.833,RU,41689.0,False,False,Россия
+Hikone,35.2744,136.26,JP,113818.0,False,False,日本
+Pombas,17.1503,-25.0201,CV,,False,False,Brasil
+Mariestad,58.705,13.828,SE,14891.0,False,True,Sverige
+Qarazhal,48.0253,70.7999,KZ,22170.0,False,False,Country not found
+Sargodha,32.0836,72.6711,PK,602631.0,False,False,پاکستان
+Kerben,41.5,71.75,KG,14141.0,False,True,Deutschland
+Ankang,32.6877,109.023,CN,1100000.0,False,False,中国
+Pulaski,37.0528,-80.7624,US,15407.0,False,False,United States
+Tefe,-3.3684,-64.7205,BR,51437.0,False,False,ኢትዮጵያ
+Taiynsha,53.8478,69.7639,KZ,12418.0,False,True,Қазақстан
+Trinidad,-14.8333,-64.9,BO,101454.0,False,False,Trinidad and Tobago
+Murzuq,25.9136,13.9336,LY,47324.0,False,False,ليبيا
+Groningen,53.2204,6.58,NL,216688.0,False,False,Nederland
