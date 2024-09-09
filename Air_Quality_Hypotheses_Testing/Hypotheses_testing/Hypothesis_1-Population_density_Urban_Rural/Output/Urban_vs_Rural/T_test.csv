@@ -1,0 +1,7 @@
+,Key Pollutants,P-value,Hypothesis
+0,Average CO (μg/m3),1.6088482461842357e-21,Accept
+1,Average O3 (μg/m3),0.41862027134836655,Reject
+2,Average NO2 (μg/m3),1.602498943190815e-07,Accept
+3,Average S02 (μg/m3),0.004655152141681556,Accept
+4,Average PM2.5 (μg/m3),2.8127084361969726e-11,Accept
+5,Average PM10 (μg/m3),6.767213303476201e-16,Accept
