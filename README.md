@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-as
-=======
 # Project 1: Clearing the Air
 Group 5 - Alvin, Fatema, Bradley and Wendy
 
